@@ -1,0 +1,9 @@
+streamlit
+pandas==1.5.3
+Flask
+pillow
+numpy
+sentence-transformers
+scikit-learn
+nltk
+joblib
